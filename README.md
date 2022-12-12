@@ -8,6 +8,8 @@ Para poder vincularlo correctamente, en el ``src`` del ``link`` hay que poner la
 
 Ej: link rel="stylesheet" href="mystyle.css"
 
+También podemos añadir o cambiar la fuente del texto, tan solo debemos ir a la pagina oficial de ``Google fonts`` y copiar el link/comandos de la fuente el cual queremos usar, y vincularlo 
+
 #Dentro del CSS
 - Selectores
 A la hora de poner estilos hay que elegir "qué", en concreto,
@@ -24,3 +26,22 @@ Una vez se haya seleccionado el selector, los estilos se deben poner de esta for
     (lo que quieres hacer);
 
 }
+
+
+En los estilos que hemos aprendido estan:
+
+### ``Padding``
+
+Lo que seria la sangría, es decir el margen
+
+### ``Backgrounds``
+
+Para editar el fondo
+
+### ``Borders``
+
+Para añadir o editar bordes
+
+### ``Height/Width``
+
+Tal cual como su traducción al español, hacen referencia a la anchura y la altura
